@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-07-01 08:13 PM
+5.0.270.1002578 (1002351)
+6dff462 (11 Apr 2024 6:17:55 pm)
+-->
+<scene title="PERFECT CC BY HAMZA &amp; SPIDEY " width="1080" height="1080" exportWidth="1080" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="649" fps="60" modifiedTime="1751381026355" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <shape id="10714492" startTime="0" endTime="649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,540.000061,0.000000" />
+      <scale value="5.400000,5.400000" />
+      <opacity value="0.591797" />
+    </transform>
+    <fillColor value="#ffacc056" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.sharpen" locallyApplied="true">
+      <property name="strength" type="float" value="0.050000" />
+      <property name="radius" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hdr" locallyApplied="true">
+      <property name="strength" type="float" value="0.200000" />
+      <property name="exposure" type="float" value="0.750000" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="iter" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10714493" startTime="0" endTime="649" fillType="color" blending="overlay" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,540.000061,0.000000" />
+      <scale value="5.400000,5.400000" />
+      <opacity value="0.046875" />
+    </transform>
+    <fillColor value="#ff5cb1ba" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.fourcolorgradient" locallyApplied="true">
+      <property name="color1" type="color" value="#ffffffff" />
+      <property name="offset1" type="vec2" value="0.000000,-500.000000" />
+      <property name="color2" type="color" value="#ffffffff" />
+      <property name="offset2" type="vec2" value="500.000000,-500.000000" />
+      <property name="color3" type="color" value="#ffffffff" />
+      <property name="offset3" type="vec2" value="500.000000,0.000000" />
+      <property name="color4" type="color" value="#ffffffff" />
+      <property name="blend" type="float" value="2.000000" />
+      <property name="alpha" type="float" value="0.750000" />
+      <property name="blendMode" type="int" value="0" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="true">
+      <property name="exposure" type="float" value="2.000000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10714494" label="coloring " startTime="0" endTime="649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,540.000061,0.000000" />
+      <scale value="5.400000,5.400000" />
+      <opacity value="0.468750" />
+    </transform>
+    <fillColor value="#ff76a0a7" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="0" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="2" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10714495" startTime="0" endTime="649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,540.000061,0.000000" />
+      <scale value="5.400000,5.400000" />
+    </transform>
+    <fillColor value="#ff76a0a7" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.highlightshadow" locallyApplied="true">
+      <property name="highlights" type="float" value="1.100000" />
+      <property name="shadows" type="float" value="0.950000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10714496" startTime="0" endTime="649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,539.999939,0.000000" />
+      <scale value="0.900000,0.900000" />
+    </transform>
+    <fillColor value="#ff82def2" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.softglow" locallyApplied="true">
+      <property name="strength" type="float" value="0.220000" />
+      <property name="brightness" type="float" value="0.390000" />
+      <property name="contrast" type="float" value="0.200000" />
+      <property name="highlights" type="float" value="0.500000" />
+      <property name="color" type="color" value="#ffff5566" />
+      <property name="blend" type="float" value="0.250000" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="outsideAlpha" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="-0.040000" />
+      <property name="vib" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="695.000061,695.000061" />
+  </shape>
+  <shape id="10714497" startTime="0" endTime="649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="579.159912,519.964966,0.000000" />
+      <scale value="1.182902,1.182902" />
+    </transform>
+    <fillColor value="#ffa27355" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="630.000000,630.000000" />
+  </shape>
+  <shape id="10714498" startTime="0" endTime="649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="562.356812,571.921814,0.000000" />
+      <scale value="1.161323,1.161323" />
+    </transform>
+    <fillColor value="#ff5cb6f5" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.softglow" locallyApplied="true">
+      <property name="strength" type="float" value="0.970000" />
+      <property name="brightness" type="float" value="0.280000" />
+      <property name="contrast" type="float" value="0.000000" />
+      <property name="highlights" type="float" value="0.280000" />
+      <property name="color" type="color" value="#ffff5566" />
+      <property name="blend" type="float" value="0.250000" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="outsideAlpha" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.highlightshadow" locallyApplied="true">
+      <property name="highlights" type="float" value="0.930000" />
+      <property name="shadows" type="float" value="0.840000" />
+    </effect>
+    <property name="size" type="vec2" value="626.000000,626.000000" />
+  </shape>
+  <shape id="10714499" startTime="0" endTime="649" fillType="color" mediaFillMode="stretch" s=".rect">
+    <transform>
+      <location value="720.000000,900.000000,0.000000" />
+      <scale value="7.200000,9.000000" />
+      <opacity value="0.753906" />
+    </transform>
+    <fillColor value="#ffccdc62" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" hidden="true" locallyApplied="false">
+      <property name="exposure" type="float" value="0.510000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.lensblur2" locallyApplied="false">
+      <property name="radius" type="float" value="0.310000" />
+      <property name="strength" type="float" value="0.050000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10714500" startTime="0" endTime="649" fillType="color" mediaFillMode="stretch" s=".rect">
+    <transform>
+      <location value="720.000000,900.000000,0.000000" />
+      <scale value="7.200000,9.000000" />
+      <opacity value="0.078125" />
+    </transform>
+    <fillColor value="#ff384c66" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.lightglow" locallyApplied="false">
+      <property name="intensity" type="float" value="1.580000" />
+      <property name="strength" type="float" value="0.550000" />
+      <property name="threshold" type="float" value="0.264000" />
+      <property name="color" type="color" value="#ffffffff" />
+      <property name="blend" type="float" value="0.000000" />
+      <property name="halo" type="float" value="0.000000" />
+      <property name="alpha" type="float" value="0.750000" />
+    </effect>
+    <effect id="com.alightcreative.effects.vignette" hidden="true" locallyApplied="false">
+      <property name="feather" type="float" value="1.000000" />
+      <property name="strength" type="float" value="0.665000" />
+      <property name="scale" type="float" value="0.950000" />
+      <property name="roundness" type="float" value="1.500000" />
+      <property name="tint" type="float" value="0.200000" />
+      <property name="overlaycolor" type="color" value="#ff000000" />
+      <property name="punchout" type="bool" value="false" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10714501" startTime="0" endTime="649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="720.000000,900.000000,0.000000" />
+      <scale value="7.200000,9.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.exposure" locallyApplied="false">
+      <property name="exposure" type="float" value="0.180000" />
+      <property name="gamma" type="float" value="1.000000" />
+      <property name="offset" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.pulseopacity2" hidden="true" locallyApplied="false">
+      <property name="freq" type="float" value="5.000000" />
+      <property name="strength" type="float" value="1.000000" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="type" type="int" value="0" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10714502" label="coloring" startTime="0" endTime="649" fillType="color" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,540.000000,0.000000" />
+      <scale value="5.400000,5.400000" />
+      <opacity value="0.296875" />
+    </transform>
+    <fillColor value="#ff41c354" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="false">
+      <property name="red" type="int" value="0" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="1" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+</scene>
